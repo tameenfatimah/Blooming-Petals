@@ -1,0 +1,135 @@
+.container-fluid
+{
+    background-color: rgb(247, 244, 239);
+}
+.logoimg
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.container-fluid h4
+{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+.container-fluid h6
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    margin-left: -110px;
+    margin-top: 45.5px;
+    font-size: small;
+}
+#navbarSupportedContent ul li a 
+{
+    color: rgb(139, 135, 135);
+    margin-left: 50px;
+    float: left;
+    font-size: 16px;
+    list-style-type: none;
+}
+.dropdown-menu
+{
+    display: none;
+    z-index: 1000;
+    border-radius: 10px;
+    position: absolute;
+    width: 250px;
+} 
+#navbarSupportedContent ul li
+{
+    list-style-type: none;
+    font-style: normal;
+}
+#navbarSupportedContent ul li a
+{
+    list-style-type: none;
+    display: block;
+    text-decoration: none;
+    margin-top: 6px;
+}
+.dropdown-menu li:hover 
+{
+    display: block;
+}
+.dropdown-menu ul li a 
+{
+    margin-top: 6px;
+}
+.links
+{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 30px auto;
+    max-width: 1000px;
+    padding-left:center;
+    justify-content: center;
+}
+.free-links 
+{
+    flex: 1;
+    margin: 20px;
+    min-width: 190px;
+} 
+.free-links a 
+{
+    display: block;
+    color: #a587b6;
+    text-decoration: none;
+    margin: 3px 0;
+    font-size: 14px;
+    float: left;
+}
+.footer 
+{
+    margin: 10px;
+}
+.footer p 
+{
+    margin-top: 5px;
+    font-size: 14px;
+    text-align: center;
+    color: #c6a6d8;
+}  
+.H
+{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(167, 82, 162);
+}
+.row 
+{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.col-md-5 img
+{
+    max-width: 50%; 
+    height: 50%;
+}
+.col-md-6
+{
+    margin: 0;
+}
+.col-md-6 h3 
+{
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #2b0242;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.col-md-6 p 
+{
+    margin-top: 10px;
+    font-size: 16px;
+    line-height: 1.5;
+}
+.col-md-6 h5 
+{
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #2b0242;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

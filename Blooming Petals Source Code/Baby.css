@@ -1,0 +1,72 @@
+.container-fluid
+{
+    background-color: rgb(247, 244, 239);
+}
+h6
+{
+    background-color: rgb(255, 255, 255);
+}
+.logoimg
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.container-fluid h4
+{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+.container-fluid p
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    margin-left: -110px;
+    margin-top: 45.5px;
+    font-size: small;
+}
+#navbarSupportedContent ul li a 
+{
+    color: rgb(102, 100, 100);
+    margin-left: 90px;
+    float: left;
+    font-size: medium;
+    list-style-type: none;
+}
+.dropdown-menu
+{
+    background-color: rgb(160, 147, 131);
+    display: none;
+    z-index: 1000;
+    border-radius: 20px;
+    position: absolute;
+    width: 200px;
+} 
+#navbarSupportedContent ul li
+{
+    list-style-type: none;
+    font-style: normal;
+}
+#navbarSupportedContent ul li a
+{
+    list-style-type: none;
+    display: block;
+    text-decoration: none;
+    margin-top: 6px;
+}
+.dropdown-menu li:hover 
+{
+    display: block;
+}
+.dropdown-menu ul li a 
+{
+    margin-top: 6px;
+}
+.dropdown-menu li:hover 
+{
+    display: block;
+}
+.dropdown-menu ul li a
+{
+    margin-top: 6px;
+}
